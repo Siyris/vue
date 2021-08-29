@@ -1,12 +1,14 @@
-# Monorepo for Starport front-end development
+# Monorepo for Siyris front-end development
 
-This monorepo contains packages to simplify frontend development (primarily using Vue 3) for Starport-launched chains.
+This monorepo contains packages to simplify frontend development (primarily using Vue 3) for Siyris.
+
+Forked from [Tendermint/vue](https://github.com/tendermint/vue)
 
 The included packages are:
 
-* [@starport/client-js](https://github.com/tendermint/vue/tree/develop/packages/client-js)
-* [@starport/vuex](https://github.com/tendermint/vue/tree/develop/packages/vuex)
-* [@starport/vue](https://github.com/tendermint/vue/tree/develop/packages/vue)
-* [App template](https://github.com/tendermint/vue/tree/develop/packages/template)
+* [@siyris/client-js](https://github.com/siyris/vue/tree/develop/packages/client-js)
+* [@siyris/vuex](https://github.com/siyris/vue/tree/develop/packages/vuex)
+* [@siyris/vue](https://github.com/siyris/vue/tree/develop/packages/vue)
+* [App template](https://github.com/siyris/vue/tree/develop/packages/template)
 
 Browse the READMEs in each package for details.
